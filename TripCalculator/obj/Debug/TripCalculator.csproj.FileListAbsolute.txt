@@ -1,0 +1,10 @@
+C:\Projects\TripCalculator\TripCalculator\TripCalculator\bin\Debug\TripCalculator.exe.config
+C:\Projects\TripCalculator\TripCalculator\TripCalculator\bin\Debug\TripCalculator.exe
+C:\Projects\TripCalculator\TripCalculator\TripCalculator\bin\Debug\TripCalculator.pdb
+C:\Projects\TripCalculator\TripCalculator\TripCalculator\obj\Debug\TripCalculator.csprojAssemblyReference.cache
+C:\Projects\TripCalculator\TripCalculator\TripCalculator\obj\Debug\TripCalculator.Properties.Resources.resources
+C:\Projects\TripCalculator\TripCalculator\TripCalculator\obj\Debug\TripCalculator.TripForm.resources
+C:\Projects\TripCalculator\TripCalculator\TripCalculator\obj\Debug\TripCalculator.csproj.GenerateResource.cache
+C:\Projects\TripCalculator\TripCalculator\TripCalculator\obj\Debug\TripCalculator.csproj.CoreCompileInputs.cache
+C:\Projects\TripCalculator\TripCalculator\TripCalculator\obj\Debug\TripCalculator.exe
+C:\Projects\TripCalculator\TripCalculator\TripCalculator\obj\Debug\TripCalculator.pdb

@@ -1,0 +1,17 @@
+C:\Projects\TripCalculator\TripCalculator\UnitTestProject1\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Projects\TripCalculator\TripCalculator\UnitTestProject1\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Projects\TripCalculator\TripCalculator\UnitTestProject1\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Projects\TripCalculator\TripCalculator\UnitTestProject1\bin\Debug\UnitTestProject1.dll
+C:\Projects\TripCalculator\TripCalculator\UnitTestProject1\bin\Debug\UnitTestProject1.pdb
+C:\Projects\TripCalculator\TripCalculator\UnitTestProject1\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Projects\TripCalculator\TripCalculator\UnitTestProject1\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Projects\TripCalculator\TripCalculator\UnitTestProject1\bin\Debug\TripCalculator.exe
+C:\Projects\TripCalculator\TripCalculator\UnitTestProject1\bin\Debug\TripCalculator.pdb
+C:\Projects\TripCalculator\TripCalculator\UnitTestProject1\bin\Debug\TripCalculator.exe.config
+C:\Projects\TripCalculator\TripCalculator\UnitTestProject1\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Projects\TripCalculator\TripCalculator\UnitTestProject1\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Projects\TripCalculator\TripCalculator\UnitTestProject1\obj\Debug\UnitTestProject1.csprojAssemblyReference.cache
+C:\Projects\TripCalculator\TripCalculator\UnitTestProject1\obj\Debug\UnitTestProject1.csproj.CoreCompileInputs.cache
+C:\Projects\TripCalculator\TripCalculator\UnitTestProject1\obj\Debug\UnitTestProject1.csproj.CopyComplete
+C:\Projects\TripCalculator\TripCalculator\UnitTestProject1\obj\Debug\UnitTestProject1.dll
+C:\Projects\TripCalculator\TripCalculator\UnitTestProject1\obj\Debug\UnitTestProject1.pdb
